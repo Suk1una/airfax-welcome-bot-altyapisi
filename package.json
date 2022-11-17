@@ -1,12 +1,12 @@
 {
-  "name": "dark-voice-bots",
+  "name": "airfax-voice-bots",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "author": "polemikal",
+  "author": "airfax",
   "license": "ISC",
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
